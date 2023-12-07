@@ -3,7 +3,11 @@
 
 Hello and welcome to my homepage! My name is Vee Vasisht and I am a computer science major at Cal State Fullerton University. I plan to graduate either during or before the year of 2028.
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects
+
+My GitHub page is http://github.com/VeeVasisht.
+
+### Favorite CPSC 120L Labs
 
 * Lab 12
     
